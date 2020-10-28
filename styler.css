@@ -1,0 +1,174 @@
+body{
+    /* width: 414px;
+    margin: 0; */
+    margin: 0;
+    background-color: rgb(231, 231, 231);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#jx_top{
+    height: 200px;
+    background-color: white;
+}
+
+#jx_top img{
+    width:200px;
+    height: 200px;
+}
+
+#jx_scan{
+    background-image: url("wjx-images/Images/scan1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 1600px;
+}
+
+#jx_scan2{
+    background-image: url("wjx-images/Images/recycle.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 1600px;
+}
+
+#jx_bottom{
+    background-color: white;
+    height: 320px;
+}
+
+#jx_bottom .jx_myalbum img{
+    width: 160px;
+    margin-left: 100px;
+}
+
+#jx_bottom .jx_record {
+    width: 200px;
+    padding-left: 400px;
+    padding-top: 50px;
+}
+
+#jx_record{
+    padding-left: 435px;
+    font-size: 40px;
+}
+
+#jx_album{
+    margin-left: 160px;
+    font-size: 40px;
+    color: rgb(40, 202, 167);
+}
+
+#jx_confirm{
+  position: absolute;
+  border-radius: 50px;
+  background-color: rgb(40, 202, 167);
+  color: white;
+  padding: 20px 40px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin-left: 500px;
+  margin-top: 7%;
+}
+
+#jx_picture{
+    background-image: url("wjx-images/Images/recycleSmall.jpg");
+    background-size:cover;
+    margin: 5%;
+    width: 350px;
+    height: 350px;
+}
+
+#jx_picture:hover{
+    background-image: url("wjx-images/Images/recycleSmallChosen.jpg");
+}
+
+#jx_text{
+    padding: 10%;
+}
+
+#jx_text textarea{
+    font-size: 40px;
+    width: 97%;
+    height: 500px;
+    line-height: 150%;
+    resize:vertical;
+}
+
+#option{
+    font-size: 40px;
+    padding: 10%;
+    
+}
+
+input[type = "radio"]{
+    width:40px;
+    height:40px;
+}
+
+input[type = "checkbox"]{
+    width:40px;
+    height:40px;
+}
+
+.communities {
+    padding-left: 5%;
+    
+}
+
+#jx_medals{
+    height:1920px;
+    background-color:#9CDFA9;
+}
+
+#jx_medal1,#jx_medal2,#jx_medal3{
+    padding-top: 50px;
+    padding-left: 60px;
+    width: 250px;
+    height: 300px;
+}
+
+.photo_submit-container {
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+}
+
+.photo_submit {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 300px;
+    background: #f8f8f8;
+    border-radius: 8px;
+}
+
+.photo_submit-input {
+    display: none;
+}
+
+.photo_submit-plus {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: cadetblue;
+    pointer-events: none;
+}
+
+.photo_submit-uploadLabel {
+    margin-top: 1rem;
+    font-size: 40px;
+    color: cadetblue;
+    letter-spacing: 0.03em;
+    pointer-events: none;
+}
+

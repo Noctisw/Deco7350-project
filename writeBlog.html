@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Camera</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="styler.css">
+</head>
+
+<body>
+    <div id="jx_top">
+        <a href="camera.html"><img src="wjx-images/Icons/back (1).png"></a>
+        <a id="jx_confirm" href="mymetals.html">Confirm</a>
+    </div>
+    <div id="jx_text">
+        <textarea name="text" placeholder="Write your description here..."></textarea>
+    </div>
+    <div class="photo_submit-container">
+        <label class="photo_submit js-photo_submit1">
+            <input class="photo_submit-input js-photo_submit-input" type="file" accept="image/*">
+            <span class="photo_submit-plus"></span>
+            <span class="photo_submit-uploadLabel">Upload photo</span>
+            <span class="photo_submit-delete"></span>
+        </label>
+    </div>
+    <div id="option">
+
+        <div>
+            <div>
+                <input id="Field5_0" name="Field5" type="radio" value="First Choice" tabindex="5" checked="checked">
+                <label class="choice" for="Field5_0">public</label>
+            </div>
+            <div>
+                <input id="Field5_1" name="Field5" type="radio" value="Second Choice" tabindex="6">
+                <label class="choice" for="Field5_1">private</label>
+            </div>
+            <div>
+                <input id="Field5_2" name="Field5" type="radio" value="Third Choice" tabindex="7">
+                <label class="choice" for="Field5_2">public to communities</label>
+                <div class="communities" data-require-pair="#Field5_2">
+                    <div>
+                        <input id="Field6" name="Field6" type="checkbox" value="First Choice" tabindex="8">
+                        <label class="choice" for="Field6">Queensland Green Association</label>
+                    </div>
+                    <div>
+                        <input id="Field7" name="Field7" type="checkbox" value="Second Choice" tabindex="9">
+                        <label class="choice" for="Field7">Qeensland Recycle Community</label>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+
+</html>
