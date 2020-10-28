@@ -1,0 +1,509 @@
+/* .Yuki_BG1 img{
+    display:block;
+    max-height: 1000px;
+    max-width: 1090px;
+    background-position:top top;
+    margin-left: -8em;
+    margin-top: -2em;
+
+} */
+body{
+    font-family: Arial, Helvetica, sans-serif,sans-serif;
+    /* width: 200px; */
+}
+
+#Yuki_div1{
+    background-image: url("background.jpg");
+    height: 650px;
+    width:1033px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin-left: -4em;
+    margin-top: -2em;
+}
+
+.Yuki_Back1 img{
+    height: 90px;
+    max-width: 90px;
+    background-position:top;
+    margin-left: 3em;
+    margin-top: 3em;
+}
+
+.Yuki_Logo1 img{
+    height: 270px;
+    max-width: 270px;
+    background-position:top;
+    margin-left: 23em;
+    margin-top: -4em;
+    border-radius: 70%;
+}
+.Yuki_society {
+    font-weight: bold;
+    color: white;
+    margin-left: 7.5em;
+    font-size: 39px;
+}
+
+.Yuki_apply{
+background-color: #20CFB5;
+border: none;
+color: white;
+padding: 15px 20px;
+text-align: center;
+font-size: 38px;
+border-radius: 15px;
+margin-left: 11em;
+}
+
+#Yuki_div2{
+    margin-left: -8em;
+    margin-top: -1em;
+    background-color:lightgray;
+    width: 1100px;
+    height: 5090px;
+    position: fixed;
+}
+
+.Yuki_box1 {
+    background-color: white;
+    position: relative;
+    width: 850px;
+    height: 690px;
+    margin-left: 11.5em;
+    margin-top: 5em;
+    border-radius: 15px;   
+}
+.Yuki_news1 img{
+    width: 850px;
+    height: 550px;
+    border-radius: 15px 15px 0px 0px;
+    margin-left: -2.5em;
+    margin-top: -1em;
+}
+
+.Yuki_box2 {
+    background-color: white;
+    position: relative;
+    width: 850px;
+    height: 690px;
+    margin-left: 11.5em;
+    margin-top: 3em;
+    border-radius: 15px;  
+}
+
+.Yuki_news2 img{
+    width: 850px;
+    height: 550px;
+    border-radius: 15px 15px 0px 0px;
+    margin-left: -2.5em;
+    margin-top: -1em;
+}
+.Yuki_newT{
+    position: relative;
+    margin-left: 25em;
+    margin-top: -21em;
+    width: 5000px;
+    height: 5000px;
+} 
+.Yuki_newT img {
+    height: 160px;
+    max-width: 160px;
+    margin-left: 15em;
+    margin-bottom: -3.5em;
+    border-radius: 70%;
+}
+.Yuki_newT1{
+    position: relative;
+    margin-left: 25em;
+    margin-top: -21em;
+    height: 5000px;
+    width: 5000px;
+} 
+
+.Yuki_newT1 img {
+    height: 160px;
+    max-width: 160px;
+    margin-left: 15em;
+    margin-bottom: 5em;
+    border-radius: 70%;
+}
+.Yuki_box1 p {
+    font-size: 30px;
+    padding-left: 8px;
+}
+.Yuki_box2 p{
+    font-size: 30px;
+    padding-left: 8px;
+}
+
+/*b.*/
+
+
+.Yuki_joined{
+    background-color: white;
+    border: none;
+    color: aquamarine;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 38px;
+    border-radius: 15px;
+    margin-left: 12em;
+    }
+
+/*c*/
+
+#Yuki_div1c{
+    background-image: url("crafts2.jpg");
+    height: 650px;
+    width:1033px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin-left: -4em;
+    margin-top: -2em;
+}
+
+.Yuki_Back1c img{
+    height: 90px;
+    max-width: 90px;
+    background-position:top;
+    margin-left: 3em;
+    margin-top: 3em;
+}
+
+.Yuki_Logo1c img{
+    height: 270px;
+    max-width: 270px;
+    background-position:top;
+    margin-left: 23em;
+    margin-top: -4em;
+    border-radius: 70%;
+}
+.Yuki_societyc {
+    font-weight: bold;
+    color: white;
+    margin-left: 11em;
+    font-size: 39px;
+}
+
+#Yuki_applyc{
+background-color: #20CFB5;
+border: none;
+color: white;
+padding: 15px 20px;
+text-align: center;
+font-size: 38px;
+border-radius: 15px;
+margin-left: 12em;
+}
+
+#Yuki_div2c{
+    margin-left: -8em;
+    margin-top: -1em;
+    background-color:lightgray;
+    width: 1100px;
+    height: 5090px;
+    position: fixed;
+}
+
+.Yuki_box1c {
+    background-color: white;
+    position: relative;
+    width: 850px;
+    height: 690px;
+    margin-left: 11.5em;
+    margin-top: 5em;
+    border-radius: 15px;   
+}
+.Yuki_news1c img{
+    width: 850px;
+    height: 550px;
+    border-radius: 15px 15px 0px 0px;
+    margin-left: -2.5em;
+    margin-top: -1em;
+}
+
+.Yuki_box2c {
+    background-color: white;
+    position: relative;
+    width: 850px;
+    height: 690px;
+    margin-left: 11.5em;
+    margin-top: 3em;
+    border-radius: 15px;  
+}
+
+.Yuki_news2c img{
+    width: 850px;
+    height: 550px;
+    border-radius: 15px 15px 0px 0px;
+    margin-left: -2.5em;
+    margin-top: -1em;
+}
+.Yuki_newTc{
+    position: relative;
+    margin-left: 25em;
+    margin-top: -21em;
+    width: 5000px;
+    height: 5000px;
+} 
+.Yuki_newTc img {
+    height: 160px;
+    max-width: 160px;
+    margin-left: 15em;
+    margin-bottom: -3.5em;
+    border-radius: 70%;
+}
+.Yuki_newT1c{
+    position: relative;
+    margin-left: 25em;
+    margin-top: -21em;
+    height: 5000px;
+    width: 5000px;
+} 
+
+.Yuki_newT1c img {
+    height: 160px;
+    max-width: 160px;
+    margin-left: 15em;
+    margin-bottom: 5em;
+    border-radius: 70%;
+}
+.Yuki_box1c p {
+    font-size: 30px;
+    padding-left: 8px;
+}
+.Yuki_box2c p{
+    font-size: 30px;
+    padding-left: 8px;
+}
+/*d*/
+.Yuki_applyFo{
+    background-color: white;
+    border: none;
+    color: aquamarine;
+    padding: 18px 25px;
+    text-align: center;
+    font-size: 38px;
+    border-radius: 15px;
+    margin-left: 11.5em;
+    }
+/*comments1*/
+.Yuki_Cbody{
+    background-color:#9CDFA9;
+}
+.Yuki_titlegreen {
+    position: fixed;
+    height: 190px;
+    width: 1090px;
+    background-color:#9CDFA9;
+    background-attachment: fixed;
+    margin-top: -1em;
+    margin-left: -1em;
+}
+.YukiQG {
+    position: fixed;
+    height: 1170px;
+    width: 1000px;
+    background-color: white;
+    margin-top: 10em;
+    margin-left: -1em;
+}
+.Yuki_comment{
+    position: fixed;
+    height: 100px;
+    width: 1090px;
+    background-color: white;
+    margin-top: 85em;
+    margin-left: -1em;
+}
+.Yuki_people {
+    position: fixed;
+    height: 460px;
+    width: 1090px;
+    background-color: white;
+    margin-top: 91.5em;
+    margin-left: -1em;
+}
+.Yuki_commentbar{
+    position: fixed;
+    height: 167px;
+    width: 1500px;
+    background-color:white;
+    margin-top: 121.7em;
+    margin-left: -1em;
+}
+.Yuki_LogoG img {
+    border-radius: 100px;
+    margin-top: 3em;
+    margin-left: 1.7em;
+}
+.Yuki_QuG {
+    font-weight: bold;
+    font-size: 41px;
+    margin-left: 7em;
+    margin-top: -4.5em;
+}
+.Yuki_Date {
+    color:lightgrey;
+    font-size: 36px;
+    margin-left: 8.8em;
+    margin-top: -0.5em;
+}
+.Yuki_Heart {
+    margin-left: 53em;
+    margin-top: -9.5em;
+}
+.Yuki_Heart img{
+    width: 100px;
+    height: 100px;
+}
+.Yuki_the_national{
+    font-size: 39px;
+    padding: 30px 60px;
+    margin-top: 2em;
+    text-align: justify;
+}
+.Yuki_pla img{
+    width: 840px;
+    height: 500px;
+    margin-left: 2.5em;
+}
+
+.Yuki_comment p{
+    font-size: 41px;
+    font-weight: bold;
+    
+}
+.C2 {
+    margin-left: 1.7em;
+    padding: -5px 5px;
+}
+.Yuki_Likes {
+    margin-left: 18.5em;
+    margin-top: -2.3em;
+}
+
+.Yuki_people {
+    padding-top: 20px;
+    padding-left: 2em;
+
+}
+.Yuki_people img {
+    width: 130px;
+    height: 130px;
+}
+.Yuki_Cname {
+    font-size: 39px;
+    padding-left: 6em;
+    margin-top: -3.5em;
+}
+.Yuki_chr1{
+    margin-top: -7em;
+    
+}
+.Yuki_chr1 img{
+    width: 100px;
+    height: 100px;
+    margin-left: 45em;
+}
+.Yuki_CComment {
+    font-size: 35px;
+    padding-right: 180px ;
+    padding-left: 50px;
+    margin-top: 2em;
+    text-align: justify;
+    margin-left: -1em;
+}
+.Yuki_Cchr {
+   margin-left: 18em;
+   margin-top: -10em;
+}
+.Yuki_Cchr img{
+    width: 160px;
+    height: 160px;
+}
+.Yuki_CommentsBar {
+    font-size: 49px;
+    color: lightgrey;
+}
+.Yuki_CommentsBar {
+    padding-left: 10em;
+    padding-top: -4em;
+}
+
+
+#Yuki_div1e{
+    background-image: url("background1.jpg");
+    height: 650px;
+    width:1033px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin-left: -4em;
+    margin-top: -2em;
+}
+
+.Yuki_societyG {
+    font-weight: bold;
+    color: white;
+    margin-left: 11em;
+    font-size: 39px;
+}
+
+/* footer */
+.homepage{
+    height: 100%;
+}
+.jwl-footer{
+    height: 12%;
+    position: fixed;
+    bottom:0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.jwl-icons li{
+    list-style-type:none;
+    float: left;
+}
+
+#tracker-icon{
+    width: 120px;
+    /* height: 42px; */
+    margin-left: 100px;
+    margin-top: 15px;
+    vertical-align:middle;
+    margin-right:80px;
+}
+
+#scan-icon{
+    width: 120px;
+    /* height: 42px; */
+    margin-top: 15px;
+    vertical-align:middle;
+    margin-right:80px;
+}
+
+#forum-icon{
+    width: 132px;
+    /* height: 42px; */
+    margin-top: 15px;
+    vertical-align:middle;
+    margin-right:80px;
+}
+
+#profile-icon{
+    width: 120px;
+    /* height: 42px; */
+    margin-top: 15px;
+    vertical-align:middle;
+    margin-right:80px;
+}
+
+
+
